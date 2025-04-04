@@ -52,12 +52,6 @@ En esta etapa se realizaron análisis detallados para responder preguntas clave 
 
 Identificación preliminar de segmentos clave según variables demográficas (ingresos, nivel educativo) y patrones de consumo.
 
-- Estadística Inferencial:
-
-Evaluación estadística para determinar diferencias significativas en el comportamiento según nivel educativo:
-
-    Por ejemplo, comparación del número promedio de vuelos reservados entre clientes con diferentes niveles educativos.
-
 Resultado: Se obtuvieron insights clave sobre el perfil del cliente, sus hábitos y las áreas críticas para optimizar el programa.
 
 **Beneficios del Proyecto:**
